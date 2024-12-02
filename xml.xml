@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<karty_graficzne poducent="Nvidia">
+    <karta_graficzna>
+        <nazwa>GeForce RTX 4090</nazwa>
+        <wydajnosc>2D</wydajnosc>
+        <data_wydania>20 września 2022</data_wydania>
+        <architektura>Diameter</architektura>
+</kartagraficzna>
+
+<karty_graficzne poducent="Nvidia">
+    <karta_graficzna>
+        <nazwa>GeForce RTX 4090U</nazwa>
+        <wydajnosc>2D</wydajnosc>
+        <data_wydania>Radius</data_wydania>
+        <architektura>Diameter</architektura>
+</kartagraficzna>
+
+<karty_graficzne poducent="AMD">
+    <karta_graficzna>
+        <nazwa>Radeon RX 7900 XT</nazwa>
+        <wydajnosc>2D</wydajnosc>
+        <data_wydania>Radius</data_wydania>
+        <architektura>Diameter</architektura>
+</kartagraficzna>
+
+<karty_graficzne poducent="Nvidia">
+    <karta_graficzna>
+        <nazwa>C</nazwa>
+        <wydajnosc>2D</wydajnosc>
+        <data_wydania>Radius</data_wydania>
+        <architektura>Diameter</architektura>
+</kartagraficzna>
+    
