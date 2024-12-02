@@ -1,0 +1,45 @@
+h1 {
+    text-align: center;
+    margin-bottom: 1cm;
+}
+button {
+    background-color: orange;
+}
+input {
+    background-color: skyblue;
+}
+ol.list1 {
+    border: 5px black solid;
+    font-weight: bold;
+}
+h1.t1 {
+    color:green;
+}
+a:hover {
+    color:blue
+}
+img {
+    width: 500px;
+    height: 500px;
+    margin: 1cm;
+    border: 5px black solid;
+}
+menu {
+    text-align: center;
+}
+p {
+    font-style: italic;
+    text-align: justify;
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+table.column {
+    width: auto;
+}
+table {
+    border: 2px solid black;
+}
+th {
+    background-color: black;
+    color:white
+}
